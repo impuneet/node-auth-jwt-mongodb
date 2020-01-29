@@ -3,7 +3,7 @@
 Example node authentication app with jwt
 
 # Installation
-1. git clone https://github.com/gmoralesc/node-auth
+1. Clone the repo
 2. cd node-auth
 3. Create a `.env` file in the root directory with this content
 ```
